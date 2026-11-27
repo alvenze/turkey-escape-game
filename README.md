@@ -19,7 +19,7 @@ freedom.
   pumpkin stacks and stock pots.
 - **Duck** (hold ArrowDown or S): hanging carving knives and DINNER TIME
   banners sweep low over the track.
-- **Dash** (Space or Shift): a burst of speed that reopens the farmer gap;
+- **Dash** (Space, Shift, D, or right mouse button): a burst of speed that reopens the farmer gap;
   watch the DASH READY pip in the HUD.
 - **Pause** P, **mute** M, **start and restart** Enter or click.
 - The **farmer gap meter** always closes in; hits slam it down by 9 metres and
